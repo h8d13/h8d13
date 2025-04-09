@@ -6,7 +6,6 @@ Especially if you are interested in game automation.
 [GitHub Rendering Issues Used By Hackers](https://github.com/community/community/discussions/151605) 
 
 ----
-## Pref stacks
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
