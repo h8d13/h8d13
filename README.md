@@ -16,9 +16,9 @@ Especially if you are interested in game automation.
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="28" alt="markdown logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="docker logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript logo"  />
   <img width="8" />
