@@ -5,6 +5,9 @@ Especially if you are interested in game automation.
 
 [GitHub Rendering Issues Used By Hackers](https://github.com/community/community/discussions/151605) 
 
+I love operating systems (not all of them) and to poke around until I break something or find interesting quirks. 
+Feel free to check out my repos :)
+
 ----
 
 <div align="left">
