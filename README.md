@@ -10,6 +10,10 @@ Feel free to check out my repos :)
 
 My personal favorite: Alpine! 
 
+![Untitled design](https://github.com/user-attachments/assets/a9d1b84c-d642-4f51-9427-278174f32d43)
+
+What programming feels like. ^^ 
+
 ----
 
 <div align="left">
