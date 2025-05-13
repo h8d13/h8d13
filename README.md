@@ -13,8 +13,10 @@ My personal favorite: Alpine!
 ![Untitled design(1)](https://github.com/user-attachments/assets/cc40710e-45e0-422b-92af-19d831503543)
 
 What programming feels like. ^^ 
+
 Can you guess my favorite lang:
-![image](https://github.com/user-attachments/assets/87254fe4-df59-41ff-98f2-a888e9dc0a75)
+
+![caribgshell](https://github.com/user-attachments/assets/78096593-05cb-49ba-b3c9-8e9260c7bde4)
 
 ----
 
