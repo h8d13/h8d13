@@ -18,6 +18,8 @@ Can you guess my favorite lang:
 
 ![caribgshell](https://github.com/user-attachments/assets/78096593-05cb-49ba-b3c9-8e9260c7bde4)
 
+I'll give you a hint: Oysters, Clams and Cockles. 
+
 ----
 
 <div align="left">
