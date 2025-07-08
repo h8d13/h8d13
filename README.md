@@ -22,8 +22,9 @@ I'll give you a hint: Oysters, Clams and Cockles.
 
 **Example why shell is too strong:**
 ```
-npm uninstall $(npx depcheck --oneline)
+npm uninstall $(npx depcheck --oneline) && git add . && git commit -m "cleanup" 
 added 1 package, removed 368 packages, and audited 357 packages in 3s
+2 files changed, 1274 insertions(+), 6973 deletions(-)
 ``` 
 FeelsGoodMan 
 
