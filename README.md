@@ -20,4 +20,11 @@ Can you guess my favorite lang:
 
 I'll give you a hint: Oysters, Clams and Cockles. 
 
+**Example why bash is too strong:**
+```
+npm uninstall $(npx depcheck --oneline)
+added 1 package, removed 368 packages, and audited 357 packages in 3s
+``` 
+FeelsGoodMan 
+
 ###
