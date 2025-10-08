@@ -28,4 +28,6 @@ added 1 package, removed 368 packages, and audited 357 packages in 3s
 ``` 
 FeelsGoodMan 
 
+<img width="500" height="660" alt="image" src="https://github.com/user-attachments/assets/887017c2-e88e-4d9d-97d6-28a60ec1efff" />
+
 ###
