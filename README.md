@@ -8,7 +8,7 @@ Especially if you are interested in game automation.
 OSes enjoyer (not all of them), to poke around until I break something or find interesting quirks. 
 Feel free to check out my repos :)
 
-My personal favorites: Alpine & Arch ! 
+My personal favorites: Alpine, Arch & Artix ! 
 
 ![Untitled design(1)](https://github.com/user-attachments/assets/cc40710e-45e0-422b-92af-19d831503543)
 
