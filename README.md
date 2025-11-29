@@ -1,7 +1,8 @@
 ## Hi Hade Here.
 
-Be careful when using public repos on Github :)
-Especially if you are interested in game automation. 
+**Be careful** when using repos on Github or from blogs :)
+
+Especially if you are interested in game automation (but any code generally?). 
 
 [GitHub Rendering Issues Used By Hackers](https://github.com/community/community/discussions/151605) 
 
