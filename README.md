@@ -31,6 +31,6 @@ FeelsGoodMan
 
 <img width="500" height="660" alt="image" src="https://github.com/user-attachments/assets/887017c2-e88e-4d9d-97d6-28a60ec1efff" />
 
-## Topside - 2025 wrap! 
+## Topside - [2025 wrap](https://gist.github.com/h8d13/804b31f3bd32cae00103413bb4ce4f9b) ! 
 
-https://gist.github.com/h8d13/804b31f3bd32cae00103413bb4ce4f9b
+
