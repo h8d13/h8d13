@@ -29,12 +29,13 @@ added 1 package, removed 368 packages, and audited 357 packages in 3s
 ``` 
 FeelsGoodMan 
 
-<img width="500" height="660" alt="image" src="https://github.com/user-attachments/assets/887017c2-e88e-4d9d-97d6-28a60ec1efff" />
-
 ## Topside - [2025 wrap](https://gist.github.com/h8d13/804b31f3bd32cae00103413bb4ce4f9b) ! 
 
 My favorite part of coding:
 
 <img width="1074" height="57" alt="Screenshot_20260103_122608" src="https://github.com/user-attachments/assets/1186569f-e828-4c3c-8eaa-3e642479315e" />
 
+🏹⛩️
+
+<img width="1024" height="726" alt="Untitled" src="https://github.com/user-attachments/assets/226c0067-aba7-4730-bc49-812a230bb0f2" />
 
