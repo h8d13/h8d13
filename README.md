@@ -7,7 +7,9 @@ Especially if you are interested in game automation (but any code generally?).
 [GitHub Rendering Issues Used By Hackers](https://github.com/community/community/discussions/151605) 
 
 OSes enjoyer (not all of them), to poke around until I break something or find interesting quirks. 
-Feel free to check out my repos :) Serial Forker/Integration from source.
+Feel free to check out my repos :) 
+
+Serial Forker/Integration from source. I love crufting™ stuff that feel old and make it like new.
 
 My personal favorites: Alpine, Arch & Artix ! 
 
