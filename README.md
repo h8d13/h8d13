@@ -1,4 +1,4 @@
-## Hi Hade Here.
+## Hi I'm Hade.
 
 **Be careful** when using repos on Github or from blogs :)
 
@@ -8,8 +8,6 @@ Especially if you are interested in game automation (but any code generally?).
 
 OSes enjoyer (not all of them), to poke around until I break something or find interesting quirks. 
 Feel free to check out my repos :) 
-
-Serial Forker/Integration from source. I love crufting™ stuff that feel old and make it like new.
 
 My personal favorites: Alpine, Arch & Artix ! 
 
