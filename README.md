@@ -23,9 +23,9 @@ What programming feels like. ^^
 
 Can you guess my favorite lang:
 
-I'll give you a hint: Oysters, Clams and Cockles. 
+I'll give you a hint: Oysters, Clams and Cockles. (Not it's not C, altho that comes close).
 
-**Example why shell is too strong:**
+Example why **shell is too strong:**
 ```
 npm uninstall $(npx depcheck --oneline) && git add . && git commit -m "cleanup" 
 added 1 package, removed 368 packages, and audited 357 packages in 3s
