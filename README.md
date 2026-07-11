@@ -33,11 +33,12 @@ added 1 package, removed 368 packages, and audited 357 packages in 3s
 ``` 
 FeelsGoodMan 
 
-My favorite part of coding:
+My favorite part of coding after archeology:
+```
+This branch is 22 commits ahead of x/y:master.
+```
 
-<img width="1074" height="57" alt="Screenshot_20260103_122608" src="https://github.com/user-attachments/assets/1186569f-e828-4c3c-8eaa-3e642479315e" />
-
-Slightly obsessed with anything **automation.**
+Slightly obsessed with anything **automation** and whatever gets in my way or forces me into a particular path.
 
 🏹⛩️
 
