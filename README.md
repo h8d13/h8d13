@@ -38,7 +38,7 @@ My favorite part of coding after archeology:
 This branch is 22 commits ahead of x/y:master.
 ```
 
-Slightly obsessed with anything **automation** and whatever gets in my way or forces me into a particular path.
+Slightly obsessed with anything **automation** and whatever gets in my way or forces me into a particular path or questions pre-fabricated assumptions.
 
 🏹⛩️
 
