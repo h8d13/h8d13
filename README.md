@@ -10,11 +10,6 @@ OSes enjoyer (not all of them), to poke around until I break something or find i
 Feel free to check out my repos :) 
 
 My personal favorites: Alpine, Arch & Artix ! 
-
-- Arch: [archinstoo](https://github.com/h8d13/archinstoo)
-- Artix [lagartixa](https://github.com/h8d13/lagartixa)
-- Alpine [frankenstein](https://github.com/h8d13/frankenstein)
-
 I maintain a handful of other tools I made for my own use. But it's 99% public. If you are willing to dig.
 
 ![Untitled design(1)](https://github.com/user-attachments/assets/cc40710e-45e0-422b-92af-19d831503543)
